@@ -25,4 +25,4 @@ A simple weather forecast iOS app built using UIKit. This app allows users to se
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/weather-forecast-uikit.git
+   git clone https://github.com/Mahmoud810/Weather-Task/tree/main
